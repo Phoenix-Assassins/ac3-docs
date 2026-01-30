@@ -15,3 +15,14 @@ This method does not take any parameters.
 |------|------|
 | qlist<NotificationEvent> | listNotifications |
 | int32 | ret |
+
+## NotificationEvent ([Structure](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#structure))
+
+| Type | Name |
+|------|------|
+| uint32 | m_pidSource |
+| uint32 | m_uiType |
+| uint32 | m_uiParam1 |
+| uint32 | m_uiParam2 |
+| string | m_strParam |
+| uint32 | m_uiParam3 |

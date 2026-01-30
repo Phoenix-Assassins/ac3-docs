@@ -32,7 +32,7 @@
 
 | Type | Name |
 |------|------|
-| qlist<UplayAction> | actionList |
+| qlist\<[UplayAction](#UplayAction-structure)> | actionList |
 
 # (2) GetActionsCompleted
 
@@ -51,7 +51,7 @@
 
 | Type | Name |
 |------|------|
-| qlist<UplayAction> | actionList |
+| qlist\<[UplayAction](#UplayAction-structure)> | actionList |
 
 # (3) GetActionsCount
 
@@ -100,7 +100,7 @@
 
 | Type | Name |
 |------|------|
-| qlist<UplayReward> | rewardList |
+| qlist\<[UplayAction](#UplayAction-structure)> | rewardList |
 
 # (6) GetRewardsPurchased
 
@@ -119,7 +119,7 @@
 
 | Type | Name |
 |------|------|
-| qlist<UplayReward> | rewardList |
+| qlist\<[UplayReward](#UplayReward-structure)> | rewardList |
 
 # (7) UplayWelcome
 
@@ -135,7 +135,7 @@
 
 | Type | Name |
 |------|------|
-| qlist<UplayAction> | actionList |
+| qlist\<[UplayAction](#UplayAction-structure)> | actionList |
 
 # (8) SetActionCompleted
 
@@ -152,7 +152,7 @@
 
 | Type | Name |
 |------|------|
-| UplayAction | unlockedAction |
+| [UplayAction](#UplayAction-structure) | unlockedAction |
 
 # (9) SetActionsCompleted
 
@@ -169,7 +169,7 @@
 
 | Type | Name |
 |------|------|
-| qlist<UplayAction> | actionList |
+| qlist\<[UplayAction](#UplayAction-structure)> | actionList |
 
 # (10) GetUserToken
 
@@ -211,7 +211,7 @@ This method does not take any parameters.
 
 | Type | Name |
 |------|------|
-| qlist<UplaySection> | sectionList |
+| qlist\<[UplaySection](#UplaySection-structure)> | sectionList |
 
 # Types
 

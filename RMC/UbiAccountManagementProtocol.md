@@ -32,13 +32,13 @@
 
 | Type | Name |
 |------|------|
-| UbiAccount | ubiAccount |
+| [UbiAccount](#UbiAccount-structure) | ubiAccount |
 
 ## Response
 
 | Type | Name |
 |------|------|
-| UbiAccount | ubiAccount |
+| [UbiAccount](#UbiAccount-structure) | ubiAccount |
 | qvector<ValidationFailureReason> | failedReasons |
 
 # (2) UpdateAccount
@@ -318,7 +318,7 @@ This method does not return anything.
 
 | Type | Name |
 |------|------|
-| TOSEx | tosex |
+| [TOSEx](#TOSEx-structure) | tosex |
 
 # (22) HasAcceptedLatestTOS
 
