@@ -14,7 +14,7 @@
 | Type | Name |
 |------|------|
 | uint32 | unkUint1 |
-| [UnkLadderType](#UnkLadderType-structure) | unkObj |
+| [LadderInfo](#LadderInfo-structure) | unkObj |
 
 ## Response
 
@@ -28,7 +28,7 @@
 
 | Type | Name |
 |------|------|
-| [UnkLadderType](#UnkLadderType-structure) | unkObj |
+| [LadderInfo](#LadderInfo-structure) | unkObj |
 
 ## Response
 
@@ -41,13 +41,13 @@ This method does not return anything.
 | Type | Name |
 |------|------|
 | uint32 | unkUint |
-| qlist\<[UnkLadderType](#UnkLadderType-structure)> | unkObjs |
+| qlist\<[LadderInfo](#LadderInfo-structure)> | unkObjs |
 
 ## Response
 
 | Type | Name |
 |------|------|
-| qlist\<[UnkLadderType](#UnkLadderType)> | list |
+| qlist\<[LadderInfo](#LadderInfo-structure)> | list |
 
 # (4) Unknown
 
@@ -58,7 +58,7 @@ Payload unknown.
 
 | Type | Name |
 |------|------|
-| qlist\<[UnkLadderType](#UnkLadderType)> | list |
+| qlist\<[LadderInfo](#LadderInfo-structure)> | list |
 
 # (5) RunSimulation
 
@@ -74,7 +74,7 @@ This method does not take any parameters.
 
 # Types
 
-## UnkLadderType ([Structure](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#structure))
+## LadderInfo ([Structure](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#structure))
 
 | Type | Name |
 |------|------|
