@@ -19,12 +19,10 @@
 |  27  | [MessageDeliveryProtocol](MessageDeliveryProtocol.md) |
 |  29  | [UbiAccountManagementProtocol](UbiAccountManagementProtocol.md) |
 |  31  | [NewsProtocol](NewsProtocol.md) |
-|  33  | [UbiNewsProtocol](UbiNewsProtocol.md) |
 |  35  | [PrivilegesProtocol](PrivilegesProtocol.md) |
 |  36  | [TrackingProtocol3](TrackingProtocol3.md) |
 |  39  | [LocalizationProtocol](LocalizationProtocol.md) |
 |  42  | [GameSessionProtocol](GameSessionProtocol.md) |
-|  47  | [UbiFriendsProtocol](UbiFriendsProtocol.md) |
 |  49  | [UplayWinProtocol](UplayWinProtocol.md) |
 |  50  | [MatchMakingProtocolExt](MatchMakingProtocolExt.md) |
 |  71  | [OfflineGameNotificationsProtocol](OfflineGameNotificationsProtocol.md) |
@@ -42,8 +40,6 @@
 | 120  | [LiveEventsProtocol](LiveEventsProtocol.md) |
 | 122  | [LadderProtocol](LadderProtocol.md) |
 | 124  | [IP2LocationProtocol](IP2LocationProtocol.md) |
-| 142  | [FriendMessagesExtensionServiceProtocol](FriendMessagesExtensionServiceProtocol.md) |
-| 143  | [SearchFriendsProtocol](SearchFriendsProtocol.md) |
 | 5000 | [OverlordLeaderboardProtocol](OverlordLeaderboardProtocol.md) |
 | 5001 | [OverlordRpneProtocol](OverlordRpneProtocol.md) |
 | 5002 | [OverlordNewsProtocol](OverlordNewsProtocol.md) |
