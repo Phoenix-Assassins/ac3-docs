@@ -36,7 +36,7 @@
 | 116  | [HermesAchievementsProtocol](HermesAchievementsProtocol.md) |
 | 117  | [SocialNetworksProtocol](SocialNetworksProtocol.md) |
 | 118  | [VirginProtocol](VirginProtocol.md) |
-| 119  | ? |
+| 119  | [WebNotificationsStorageProtocol](WebNotificationsStorageProtocol.md) |
 | 120  | [LiveEventsProtocol](LiveEventsProtocol.md) |
 | 122  | [LadderProtocol](LadderProtocol.md) |
 | 124  | [IP2LocationProtocol](IP2LocationProtocol.md) |
