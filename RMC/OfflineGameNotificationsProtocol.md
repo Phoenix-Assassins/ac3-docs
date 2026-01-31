@@ -16,6 +16,8 @@ This method does not take any parameters.
 | qlist<NotificationEvent> | listNotifications |
 | int32 | ret |
 
+# Types
+
 ## NotificationEvent ([Structure](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#structure))
 
 | Type | Name |

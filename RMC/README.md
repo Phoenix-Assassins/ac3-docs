@@ -19,14 +19,11 @@
 |  27  | [MessageDeliveryProtocol](MessageDeliveryProtocol.md) |
 |  29  | [UbiAccountManagementProtocol](UbiAccountManagementProtocol.md) |
 |  31  | [NewsProtocol](NewsProtocol.md) |
-|  32  | [NewsProtocolAdmin](NewsProtocolAdmin.md) |
 |  33  | [UbiNewsProtocol](UbiNewsProtocol.md) |
 |  35  | [PrivilegesProtocol](PrivilegesProtocol.md) |
 |  36  | [TrackingProtocol3](TrackingProtocol3.md) |
 |  39  | [LocalizationProtocol](LocalizationProtocol.md) |
-|  40  | [LocalizationAdminProtocol](LocalizationAdminProtocol.md) |
 |  42  | [GameSessionProtocol](GameSessionProtocol.md) |
-|  43  | [GameSessionAdminProtocol](GameSessionAdminProtocol.md) |
 |  47  | [UbiFriendsProtocol](UbiFriendsProtocol.md) |
 |  49  | [UplayWinProtocol](UplayWinProtocol.md) |
 |  50  | [MatchMakingProtocolExt](MatchMakingProtocolExt.md) |

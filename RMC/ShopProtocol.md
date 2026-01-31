@@ -18,7 +18,7 @@ This method does not take any parameters.
 ## Response
 | Type | Name |
 |------|------|
-| qlist\<[ShopPricing](#ShopPricing)\> | items |
+| qlist\<[ShopPricing](#ShopPricing-structure)\> | items |
 
 # (2) Unknown
 
@@ -28,7 +28,7 @@ This method does not take any parameters.
 ## Response
 | Type | Name |
 |------|------|
-| [ShopItem](#ShopItem) | item |
+| [ShopItem](#ShopItem-structure) | item |
 | uint32 | unkUint1 |
 | uint32 | unkUint2 |
 
@@ -72,7 +72,7 @@ This method does not take any parameters.
 | bool | unkBool |
 | uint32 | unkUint1 |
 | uint32 | unkUint2 |
-| [PlayerBoughtShopItem](#PlayerBoughtShopItem) | item |
+| [PlayerBoughtShopItem](#PlayerBoughtShopItem-structure) | item |
 
 # (6) UnlockItem
 
@@ -85,7 +85,7 @@ This method does not take any parameters.
 | Type | Name |
 |------|------|
 | bool | unkBool |
-| [PlayerBoughtShopItem](#PlayerBoughtShopItem) | item |
+| [PlayerBoughtShopItem](#PlayerBoughtShopItem-structure) | item |
 
 # (7) RequestBoughtItems
 
@@ -95,7 +95,7 @@ This method does not take any parameters.
 ## Response
 | Type | Name |
 |------|------|
-| qlist\<[PlayerBoughtShopItem](#PlayerBoughtShopItem)\> | items |
+| qlist\<[PlayerBoughtShopItem](#PlayerBoughtShopItem-structure)\> | items |
 
 # Types
 
