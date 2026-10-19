@@ -56,7 +56,7 @@
 | Type | Name |
 |------|------|
 | bool | unkBool |
-| qlist<[FriendInfo](#FriendInfo)> | friendInfos |
+| qlist<[FriendInfo](#friendinfo-structure)> | friendInfos |
 
 # (4) GetServerTime
 ## Request
